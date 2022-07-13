@@ -1,0 +1,18 @@
+{
+  "name": "dump-headers",
+  "version": "1.0.0",
+  "description": "Simple NodeJS server that has a resource that dumps that headers it receives. Useful if you want to see what proxy components add.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaschaSchwarze0/dump-headers.git"
+  },
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "author": "Sascha Schwarze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaschaSchwarze0/dump-headers/issues"
+  },
+  "homepage": "https://github.com/SaschaSchwarze0/dump-headers#readme"
+}
